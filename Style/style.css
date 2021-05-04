@@ -544,12 +544,9 @@ color: rgb(83, 23, 23);
         text-align: initial;
         padding: 4rem 0;
     }
-    .about__img{
+    .about__img img{
         width: 200px;
         height: 200px;
-    }
-    .about__img img{
-        width: 165px;
     }
 
     .portfolio__container{
